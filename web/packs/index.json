@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "DetectiveUsami.json",
+    "smallsharkbywontae.json"
+  ],
+  "homeserver_url": "https://matrix.xsockets.org"
+}
