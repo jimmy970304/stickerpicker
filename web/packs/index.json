@@ -1,10 +1,7 @@
 {
   "packs": [
     "DetectiveUsami.json",
-    "smallsharkbywontae.json",
-    "ws_pack_581450SvgUlp4_by_WhatStickerBot.json",
-    "line16091727_by_RekcitsEnilbot.json",
-    "line370903806_by_RekcitsEnilbot.json"
+    "smallsharkbywontae.json"
   ],
   "homeserver_url": "https://matrix.xsockets.org"
 }
